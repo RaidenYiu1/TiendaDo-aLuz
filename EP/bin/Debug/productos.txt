@@ -1,0 +1,11 @@
+104;Arroz Extra 1kg;Granos;4.2;48
+102;Aceite Vegetal 1L;Abarrotes;8.5;29
+106;Azucar Rubia 1kg;Endulzantes;3.8;57
+101;Leche Evaporada;Lacteos;4;45
+103;Fideos Tallarin;Pastas;2.5;35
+105;Atun en Conserva;Conservas;5.5;25
+107;Detergente 500g;Limpieza;6.2;20
+108;Legia Clorox;Limpieza;2.8;10
+109;dorito;Abarrotes;1.5;10
+110;chocman;Abarrotes;0.5;5
+111;CASINO MENTA;Abarrotes;0.5;18

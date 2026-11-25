@@ -1,0 +1,7 @@
+1001;Carlos Perez;104;Arroz Extra 1kg;2;8.4;VENTA;2026-11-12 18:12:16
+1002;Lucia Rojas;102;Aceite Vegetal 1L;1;8.5;VENTA;2026-11-12 18:12:16
+1003;Rosa Diaz;106;Azucar Rubia 1kg;3;11.4;VENTA;2026-11-12 18:12:16
+1006;anderson;110;chocman;15;7.5;VENTA;2026-11-12 18:26:28
+1007;elizabeth;109;dorito;10;15;VENTA;2026-11-12 18:33:33
+1008;Juape;103;Fideos Tallarin;5;12.5;VENTA;2026-11-12 18:33:33
+1009;Cliente Mostrador;111;CASINO MENTA;2;1;VENTA;2026-11-25 09:49:48
