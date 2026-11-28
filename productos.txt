@@ -1,0 +1,10 @@
+104;Arroz Extra 1kg;Granos;420;50
+102;Aceite Vegetal 1L;Abarrotes;850;30
+106;Azucar Rubia 1kg;Endulzantes;380;60
+101;Leche Evaporada;Lacteos;400;45
+103;Fideos Tallarin;Pastas;250;40
+105;Atun en Conserva;Conservas;550;25
+107;Detergente 500g;Limpieza;620;20
+108;Legia Clorox;Limpieza;280;10
+109;Arroz extra costeño x5kg;Abarrotes;2250;20
+110;Aceite primor 1l;Abarrotes;890;25

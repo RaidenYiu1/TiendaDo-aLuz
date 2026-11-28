@@ -55,7 +55,6 @@ namespace TiendaDoñaLuz
             return null;
         }
 
-        // Genera automáticamente el siguiente código disponible (ej. 109, 110...)
         public int ObtenerSiguienteCodigo()
         {
             if (Cabeza == null) return 101;
@@ -787,7 +786,6 @@ namespace TiendaDoñaLuz
                 return;
             }
 
-            // Reconstruir el camino usando nuestra PilaPersonalizada
             PilaPersonalizada<string> pilaCamino = new PilaPersonalizada<string>();
             int actualIdx = idxFin;
             while (actualIdx != -1)
