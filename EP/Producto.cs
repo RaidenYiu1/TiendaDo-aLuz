@@ -39,9 +39,9 @@ using System.Threading.Tasks;
                 );
             }
 
-            public override string ToString()
-            {
-                return $"[Cód: {Codigo}] {Nombre,-18} | Cat: {Categoria,-12} | S/ {Precio,6:F2} | Stock: {Stock}";
-            }
+        public override string ToString()
+        {
+            return $"[Cód: {Codigo}] {Nombre,-32} | Cat: {Categoria,-12} | S/ {Precio,6:F2} | Stock: {Stock,3}";
         }
+    }
     }

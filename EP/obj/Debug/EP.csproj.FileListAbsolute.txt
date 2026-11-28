@@ -5,3 +5,10 @@ C:\Users\mikun\Downloads\EP_DonaLuz_Automatizado\EP\EP\obj\Debug\EP.csproj.Assem
 C:\Users\mikun\Downloads\EP_DonaLuz_Automatizado\EP\EP\obj\Debug\EP.csproj.CoreCompileInputs.cache
 C:\Users\mikun\Downloads\EP_DonaLuz_Automatizado\EP\EP\obj\Debug\EP.exe
 C:\Users\mikun\Downloads\EP_DonaLuz_Automatizado\EP\EP\obj\Debug\EP.pdb
+C:\Users\Edwin\source\repos\TiendaDo-aLuz\EP\bin\Debug\EP.exe.config
+C:\Users\Edwin\source\repos\TiendaDo-aLuz\EP\bin\Debug\EP.exe
+C:\Users\Edwin\source\repos\TiendaDo-aLuz\EP\bin\Debug\EP.pdb
+C:\Users\Edwin\source\repos\TiendaDo-aLuz\EP\obj\Debug\EP.csproj.AssemblyReference.cache
+C:\Users\Edwin\source\repos\TiendaDo-aLuz\EP\obj\Debug\EP.csproj.CoreCompileInputs.cache
+C:\Users\Edwin\source\repos\TiendaDo-aLuz\EP\obj\Debug\EP.exe
+C:\Users\Edwin\source\repos\TiendaDo-aLuz\EP\obj\Debug\EP.pdb
