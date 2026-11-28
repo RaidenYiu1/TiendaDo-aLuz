@@ -9,5 +9,92 @@
 109;dorito;Abarrotes;1.5;10
 110;chocman;Abarrotes;0.5;5
 111;CASINO MENTA;Abarrotes;0.5;18
-112;Inka Kola 1 litro;Bebidas;8.5;20
-113;Galletas;Abarrotes;2;50
+112;Quinia blanca 500g;Granos;8.5;20
+113;Inka Cola 500ml;Bebidas;3.5;20
+114;Aceite primor 900ml;Abarrotes;9;20
+115;Sal de mesa 1kg;Abarrotes;1.7;20
+116;Café Nescafé(Sobre);Abarrotes;0.8;20
+117;Leche Gloria 390g;Lacteos;4;26
+118;Six pack Leche Gloria 390g c/u;Lacteos;23;32
+119;Arroz extra Costeño bolsa 750g;Granos;4.2;15
+120;Coca-Cola botella 500ml;Bebidas;3.5;25
+121;Inca Kola botella 1.5L;Bebidas;7.4;20
+122;Coca-Cola botella 2.25L;Bebidas;9.5;20
+123;Guaraná Backus botella 500ml;Bebidas;2.2;20
+124;Agua San Mateo botella 600ml;Bebidas;1.8;20
+125;Cerveza Pilsen Callao 630ml;Bebidas;6.5;20
+126;Cerveza Cristal 355ml x 6;Bebidas;19.9;20
+127;Sporade 500ml;Bebidas;2.5;20
+128;Kiwicha grano Incasur 500g;Granos;6.5;20
+129;Trigo pelado Costeño 500g;Granos;3;20
+130;Café instantáneo Nescafé 170g;Abarrotes;22.9;20
+131;Salsa ají amarillo Tari 200g;Abarrotes;2.9;20
+132;Vinagre blanco Venturo 500ml;Abarrotes;1.6;20
+133;Yogur Gloria fresa 1kg;Abarrotes;8.5;40
+134;Yogur Laive vainilla 946ml;Lacteos;5.9;20
+135;Mantequilla Gloria sal 200g;Lacteos;7.6;20
+136;Queso fresco Bonlé 1kg;Lacteos;18.5;20
+137;Champiñones Valle Verde 185g;Conservas;4.4;20
+138;Pasta tomate Pomarola 200g;Conservas;2.1;20
+139;Aceitunas El Olivar 200g;Conservas;5;20
+140;Piña rodajas Arica 565g;Conservas;6.7;20
+141;Jabón barra Bolívar 210g;Limpieza;4.2;20
+142;Detergente líq Bolívar 1L;Limpieza;11;20
+143;Limpiatodo Poett 900ml;Limpieza;3.8;20
+144;Lavavajilla líq Ayudín 500ml;Limpieza;4.6;20
+145;Bolsa basura Virutex 140L x10;Limpieza;5.8;20
+146;Lejía Clorox 1L;Limpieza;2.3;20
+147;Suavizante Downy 400ml;Limpieza;3.8;20
+148;Limpiavidrios Sapolio 500ml;Limpieza;5.8;20
+149;Lavavajilla pasta Sapolio 300g;Limpieza;2.9;20
+150;Detergente Opal 320g;Limpieza;3.8;20
+151;Inka Kola 1 litro;Bebidas;8.5;20
+152;Galletas Soda Field x6;Abarrotes;2;50
+153;Lentejas Costeño 500g;Granos;5.2;20
+154;Frejol canario 500g;Granos;6.8;20
+155;Garbanzo Costeño 500g;Granos;5.9;20
+156;Avena Quaker 900g;Granos;9.5;20
+157;Maíz pop corn 500g;Granos;3.6;20
+158;Pallares Costeño 500g;Granos;7.9;20
+159;Arveja partida 500g;Granos;3.8;20
+160;Harina Blanca Flor 1kg;Abarrotes;5.4;20
+161;Fideos spaghetti Don Vittorio 450g;Abarrotes;3.6;25
+162;Fideos codito Lavaggi 250g;Abarrotes;1.9;25
+163;Azúcar blanca Cartavio 1kg;Abarrotes;4.6;30
+164;Mayonesa Alacena 190g;Abarrotes;5.9;20
+165;Ketchup Alacena 200g;Abarrotes;3.9;20
+166;Mostaza Alacena 200g;Abarrotes;3.5;20
+167;Galletas Oreo x6;Abarrotes;5.5;30
+168;Galletas Casino chocolate x6;Abarrotes;3.8;30
+169;Chocolate Sublime 30g;Abarrotes;2;40
+170;Papitas Lays clásicas 42g;Abarrotes;2.5;30
+171;Cifrut naranja 500ml;Bebidas;1.5;24
+172;Agua Cielo 625ml;Bebidas;1.2;24
+173;Sprite 500ml;Bebidas;3;24
+174;Fanta naranja 500ml;Bebidas;3;24
+175;Pepsi 1.5L;Bebidas;5.5;20
+176;Jugo Frugos durazno 1L;Bebidas;4.5;20
+177;Gatorade tropical 500ml;Bebidas;3.5;20
+178;Volt energizante 300ml;Bebidas;2;30
+179;Té Herbi manzanilla x25;Bebidas;3.2;20
+180;Chicha morada Pura Vida 1L;Bebidas;4.9;20
+181;Leche Laive light 1L;Lacteos;5.2;20
+182;Leche condensada Nestlé 393g;Lacteos;6.5;20
+183;Yogur Gloria durazno 500g;Lacteos;4.9;20
+184;Queso edam Laive 250g;Lacteos;12.9;15
+185;Mantequilla Laive 200g;Lacteos;8.2;15
+186;Leche Pura Vida 400g;Lacteos;3.5;30
+187;Atún Florida trozos 140g;Conservas;6.9;25
+188;Sardinas Campomar 425g;Conservas;5.8;20
+189;Durazno en almíbar Arica 820g;Conservas;9.5;15
+190;Choclo desgranado Valle Verde 300g;Conservas;4.9;15
+191;Grated de bonito Real 170g;Conservas;4.2;20
+192;Leche en polvo Anchor 400g;Lacteos;17.5;15
+193;Papel higiénico Elite x4;Limpieza;6.5;30
+194;Jabón Protex 110g;Limpieza;3.5;25
+195;Shampoo Head & Shoulders 375ml;Limpieza;18.9;15
+196;Pasta dental Colgate 75ml;Limpieza;4.5;25
+197;Esponja Scotch-Brite x3;Limpieza;4.9;20
+198;Detergente Ariel 750g;Limpieza;12.9;20
+199;Ambientador Glade 360ml;Limpieza;9.9;15
+200;Servilletas Elite x100;Limpieza;2.5;30
